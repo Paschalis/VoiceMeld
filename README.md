@@ -23,6 +23,8 @@ This project focuses on processing and synthesizing voice signals using MATLAB. 
 - **Sound Synthesis:** Synthesize the voice signal by convolving the above components.
 - **Signal Analysis:** Analyze the synthesized signals and compare them with natural voice signals.
 
+![Alt Text](output.gif)
+
 ## Project Submission
 
 The project submission includes:

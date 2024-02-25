@@ -1,6 +1,7 @@
 # Voice Processing and Synthesis Project
 
-This repository contains the code and materials for the "Voice Processing & Speech" project, part of the course "ΕΠΕΞΕΡΓΑΣΙΑ ΦΩΝΗΣ & ΛΟΓΟΥ" (Voice and Speech Processing), as part of the curriculum of the Π.Θ., ΤΗΜΜΥ (Department of Electrical and Computer Engineering) for the academic year 2023-24.
+This repository contains the code and materials for the "Voice Processing & Speech" project, part of the course "ΜΔΕ671 Προχωρημένα Θέματα Επεξεργασίας Φωνής και Λόγου
+" (PGS671 Advanced Topics in Speech and Language Processing), as part of the curriculum of the Department of Electrical and Computer Engineering which belongs to the School of Engineering of the University of Thessaly for the academic year 2023-24.
 
 ## Project Description
 

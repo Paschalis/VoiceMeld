@@ -5,6 +5,8 @@ This repository contains the code and materials for the "Voice Processing & Spee
 
 ## Project Description
 
+![Alt Text](output.gif)
+
 This project focuses on processing and synthesizing voice signals using MATLAB. It consists of two main parts:
 
 ### Part A: Basic Voice Parameter Estimation Algorithms (65%)
@@ -22,8 +24,6 @@ This project focuses on processing and synthesizing voice signals using MATLAB. 
 - **Radiation Load Model:** Model the radiation load using the provided equation.
 - **Sound Synthesis:** Synthesize the voice signal by convolving the above components.
 - **Signal Analysis:** Analyze the synthesized signals and compare them with natural voice signals.
-
-![Alt Text](output.gif)
 
 ## Project Submission
 

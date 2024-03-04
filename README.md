@@ -5,7 +5,7 @@ This repository contains the code and materials for the "Voice Processing & Spee
 
 ## Project Description
 
-[![Alt Text](output.gif)]('poster in English.pdf')
+[![Alt Text](output.gif)](poster_in_English.pdf)
 
 Click on the GIF to open the PDF.
 

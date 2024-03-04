@@ -7,9 +7,9 @@ This repository contains the code and materials for the "Voice Processing & Spee
 
 [![Alt Text](output.gif)](poster_in_English.pdf)
 
-<div style="opacity: 0.5; text-align: center;">
-Click on the GIF to open the PDF.
-</div>
+<p align="center">
+  <b>Click on the GIF to open the PDF.</b>
+</p>
 
 This project focuses on processing and synthesizing voice signals using MATLAB. It consists of two main parts:
 
@@ -32,9 +32,10 @@ This project focuses on processing and synthesizing voice signals using MATLAB. 
 ## Project Submission
 
 [![Alt Text](cover.png)](Assignment_Project.pdf)
-<div style="opacity: 0.5; text-align: center;">
-Click on the image to open the PDF.
-</div>
+
+<p align="center">
+  <b>Click on the image to open the PDF.</b>
+</p>
 
 The project submission includes:
 

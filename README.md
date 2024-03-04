@@ -5,7 +5,9 @@ This repository contains the code and materials for the "Voice Processing & Spee
 
 ## Project Description
 
-![Alt Text](output.gif)
+[![Alt Text](test.gif)](poster in English.pdf)
+
+Click on the GIF to open the PDF.
 
 This project focuses on processing and synthesizing voice signals using MATLAB. It consists of two main parts:
 
@@ -27,9 +29,13 @@ This project focuses on processing and synthesizing voice signals using MATLAB. 
 
 ## Project Submission
 
+[![Alt Text](cover.png)](Assignment_Project.pdf)
+
+Click on the image to open the PDF.
+
 The project submission includes:
 
-- A report (in PDF or DOC format) explaining the implemented algorithms and methods, including diagrams and results.
+- A report (in PDF) explaining the implemented algorithms and methods, including diagrams and results.
 - Audio files (.wav) of the recorded voice signal and synthesized voice signals.
 - MATLAB code files (.m) containing the implemented algorithms and synthesis system.
 
@@ -51,4 +57,10 @@ To use the MATLAB code provided in this repository, simply clone or download the
 
 ## License
 
-This project is licensed under the [GNU General Public License Version 3 (GPLv3)](LICENSE).
+This project is licensed under the
+
+⚖ [GNU General Public License Version 3 (GPLv3)](LICENSE)
+
+</br>
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0)
